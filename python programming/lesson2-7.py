@@ -1,0 +1,5 @@
+print("input,output abd import")
+num=input('Enter a number: ')
+print(num)
+print("the type of num is", type(num))
+print(eval('2+3'))
